@@ -5,7 +5,7 @@ import { useSession } from "next-auth/react";
 import { usePathname, useRouter } from "next/navigation";
 
 const PromptCard = ({
-  key,
+  // key,
   post,
   handleTagClick,
   handleEdit,
